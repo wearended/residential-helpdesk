@@ -1,3 +1,3 @@
-Class Config {
+Class config {
     String API_KEY = "sk-2f79abd4912f6f78c846f0f532b618cda936fa93d0e57411";
 }
