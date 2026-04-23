@@ -12,6 +12,7 @@
 
 # Environment
 .env
+config.java
 
 # Package Files #
 *.jar
